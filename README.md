@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **me@0xfunda.xyz**
 
-- 📄 Know about my experiences [0xfunda.xyx/resume](https://0xfunda.xyx/resume)
+- 📄 Know about my experiences [0xfunda.xyx/resume](https://0xfunda.xyz/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
