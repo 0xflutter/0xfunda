@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [blog.0xfunda.xyz](https://blog.0xfunda.xyz)
 
-- 📫 How to reach me **me@0xflutter.xyz**
+- 📫 How to reach me **me@0xfunda.xyz**
 
 - 📄 Know about my experiences [0xfunda.xyx/resume](https://0xfunda.xyx/resume)
 
