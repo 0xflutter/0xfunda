@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Dart , Flutter 🍃**
 
-- My Portfolio [0xfunda.xyz](https://0xflunda.xyz)
+- My Portfolio [0xfunda.xyz](https://0xfunda.xyz)
 
 - 📝 I regularly write articles on [blog.0xfunda.xyz](https://blog.0xfunda.xyz)
 
